@@ -1,0 +1,9 @@
+version = 1
+
+[[analyzers]]
+name = "go"
+enabled = true
+
+  [analyzers.meta]
+  import_path = "github.com/m3ntalsp00n/kiali-ui"
+  dependencies_vendored = true
