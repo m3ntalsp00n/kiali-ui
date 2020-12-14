@@ -1213,7 +1213,12 @@
     exenv "^1.2.2"
     lodash "^4.17.15"
 
-"@patternfly/react-tokens@2.7.10", "@patternfly/react-tokens@^2.7.10":
+"@patternfly/react-tokens@2.8.15":
+  version "2.8.15"
+  resolved "https://registry.yarnpkg.com/@patternfly/react-tokens/-/react-tokens-2.8.15.tgz#f62a569213ccb32ecdbd9da8709d6b5a55f8d215"
+  integrity sha512-hhxWJ+gHqBxh5kWo6J23B9T5hvaRqwwtK5YoVscvv2skWIS+5XPLetVjhEmMoZ18MEcMHmpKkEri9s9Tj5jtlQ==
+
+"@patternfly/react-tokens@^2.7.10":
   version "2.7.10"
   resolved "https://registry.yarnpkg.com/@patternfly/react-tokens/-/react-tokens-2.7.10.tgz#5e990e862b2311329066e8d005cdac6cd5e19af3"
   integrity sha512-7p7L0CwSHVKnN2vu/zNTL0NN6K+tBPfS1Vw1fnynglWomBW2Uqb5lKlkORuySOCa3Zy/WMNmTI9feFrVpCIV+w==
