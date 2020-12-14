@@ -1141,10 +1141,10 @@
   resolved "https://registry.yarnpkg.com/@patternfly/patternfly/-/patternfly-2.43.1.tgz#9961e331ac78f2cf55a73527656503f5555b053e"
   integrity sha512-dWw4FeQfLHFXva1VmH8Epusu3VX91VrOH+9FVvRDsCEcajsq5Pc5BCF+H9KyQ4eA6EfTEMsW2F0zVWD/7B4RFA==
 
-"@patternfly/patternfly@2.44.2":
-  version "2.44.2"
-  resolved "https://registry.yarnpkg.com/@patternfly/patternfly/-/patternfly-2.44.2.tgz#3a124ff13436ff8850fe6896d68b688e8c659ee1"
-  integrity sha512-NsW67jkvmiHzrQs4l2Gytea/Bek76ry6imtJOuEaW30j+FXopDHpmQW/D7avRKn4yFSg4gRxuE1DfUjoLeclTw==
+"@patternfly/patternfly@2.71.7":
+  version "2.71.7"
+  resolved "https://registry.yarnpkg.com/@patternfly/patternfly/-/patternfly-2.71.7.tgz#0816479c4a34728d0f9f804b74398d2d39c2112d"
+  integrity sha512-JjgBJcPOiZhEyixc6mY781eMmVL+qm5gs/h7IipVfps3IoadEZVlvOjffBCfqOVWug0DJbv6APqrZqOQmzISMA==
 
 "@patternfly/react-charts@5.2.2":
   version "5.2.2"
